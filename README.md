@@ -1,3 +1,3 @@
 # Neginpardakht
 
-NeginPardakht IPG Samples
+NeginPardakht IPG implementation samples
